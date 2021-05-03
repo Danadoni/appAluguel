@@ -1,0 +1,12 @@
+﻿Activation Process:
+
+1. Disabling your network 
+2. Install the program and close it after run.
+3. Delete the two files "EuCfg.bin & Config.dat" from install folder or isntall directory.
+4. Copy "Config.dat" file from Activation info Folder and send it to C:\Program Files\EaseUS    \EaseUS Data Recovery Wizard
+5. Use the Serial number to get full version: M2HHC-RZ2SF-SGVR2-2EX3V-62FWI
+
+-----Don't for get to subscribe my youtube channel-----
+
+ 
+
